@@ -1,0 +1,4 @@
+this is from master branch
+this is remain unchange
+17/04/2023
+git commit -a -m "new added with common command"
