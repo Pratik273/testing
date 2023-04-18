@@ -6,3 +6,5 @@ if a>10:
     print("no")
 else:
     print("yes")
+for i in range(10):
+    print(i)
